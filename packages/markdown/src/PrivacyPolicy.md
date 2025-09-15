@@ -300,11 +300,11 @@ hors de l’Union européenne.
 
 ### 7.1 Sous-traitants
 
-{{tableThirdParties}}
+<div data-custom-element>{{tableThirdParties}}</div>
 
 ### 7.2 Cookies
 
-{{tableCookies}}
+<div data-custom-element>{{tableCookies}}</div>
 
 Vous pouvez à tout moment retirer votre consentement relatif aux cookies en cliquant sur le bouton suivant :
 {{cookieConsentButton}}
